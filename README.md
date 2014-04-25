@@ -2,7 +2,7 @@
 
 Ping Pong Task Managing
 
-![]()
+![](https://raw.githubusercontent.com/mattn/pingpong/master/etc/pingpong.png)
 
 ## Description
 
