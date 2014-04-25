@@ -39,6 +39,19 @@ After some seconds, `ppong` stop the ffserver.
 * args: arguments for the command
 * timeout: specify timeout senconds. if omitted, 60 seconds.
 
+## Options
+
+`pping`
+
+* `-n`: name of task. `ppong` read `name.json` on current director.json` on current directory.
+* `-p`: interval seconds to ping.
+
+`ppong`
+
+* `-i`: interval seconds to check process alives.
+* `-s`: server address.
+* `-t`: default timeout value.
+
 ## Installation
 
 pping on client
